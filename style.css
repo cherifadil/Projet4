@@ -427,7 +427,7 @@ nav .caret {
 }
 
 .dropdown-menu .dropdown span {
-    border: 4px solid black;
+    border: 4px black;
     border-top-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
@@ -937,7 +937,7 @@ h4 {
     .dropdown .dropdown a .caret {
         float: none;
         margin: 5px 0 0 10px!important;
-        border: 4px solid black;
+        border: 4px black;
         border-bottom-color: transparent;
         border-right-color: transparent;
         border-left-color: transparent;
